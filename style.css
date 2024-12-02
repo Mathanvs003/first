@@ -1,0 +1,216 @@
+*{
+   margin: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.top{
+    height: 400px;
+    width: 100%;
+    background-color:#1F2937 ;
+}
+.nav{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.nav h4{
+    font-size: 24px;
+    color: #f9faf8;
+    padding-top: 10px;
+}
+.nav ul{
+    display: flex;
+    color: #e5e7eb;
+    margin-top: -30px;
+    margin-left: 500px;
+    justify-content: space-around;
+    padding-top: 5px;
+}
+.nav ul li{
+    list-style-type: none;
+    font-size: 18px;
+    padding-right: 10px;
+}
+.left{
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 300px;
+    width:390px
+}
+.left input{
+    background-color: #3882f6;
+    margin-top: 10px;
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    color: #f9faf8;
+    border-radius: 5px;
+    border:#3882f6 ;
+}
+.content1 h1{
+    font:48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+.content1 p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.right{
+    height: 200px;
+    width: 400px;
+    background-color: #f9faf8;
+    margin-left: 600px;
+    margin-top: -290px;
+    opacity: 0.5;
+}
+.right h3{
+    text-align: center;
+    padding-top: 75px;
+}
+.base{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: relative;
+}
+.hpoint{
+    text-align: center;
+    font-weight: 900;
+    font-size: 26px;
+}
+#first{
+    border: 4px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 70px;
+}
+#sec{
+    border: 4px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 270px;
+}
+#third{
+    border: 4px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 470px;
+}
+#fourth{
+    border: 4px solid #3882f6;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 670px;
+}
+#one{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 230px;
+    margin-left: 75px;
+    font-weight: normal;
+}
+#two{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -30px;
+    margin-left: 275px;
+    font-weight: normal;
+}
+#three{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -30px;
+    margin-left: 475px;
+    font-weight: normal;
+}
+#four{
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -30px;
+    margin-left: 675px;
+    font-weight: normal;
+}
+.quote{
+    background-color:#e5e7eb;
+    height: 350px;
+    width: 100%;
+    margin-top: 120px;
+}
+.qcon{
+    margin-left: 350px;
+    margin-right: 250px;
+    width: 550px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+    padding-top: 90px;
+}
+.qcon p{
+    text-align: left;
+}
+.qcon h2{
+    font-size: 17px;
+    margin-left: 300px;
+}
+.contact{
+    border: 1px solid #3882f6;
+    background-color: #3882f6;
+    height: 150px;
+    width: 900px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 90px;
+    position: relative;
+    border-radius: 5px;
+}
+.contact h2{
+    padding-top: 50px;
+    padding-left: 90px;
+    color: #f9faf8;
+}
+.contact p{
+    padding-left: 90px;
+    color: #e5e7eb;
+}
+.contact input{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -40px;
+    border: 3px solid #f9faf8;
+    background-color: #3882f6;
+    height:30px;
+    width: 100px;
+    border-radius: 5px;
+    color: #f9faf8;
+    font-weight: 400;
+    font-size: 15px;
+}
+footer{
+    background-color: #1F2937;
+    margin-top: 90px;
+    height: 50px;
+    width: 100%;
+    color: #f9faf8;
+    text-align: center;
+    padding-top: 25px;
+}
